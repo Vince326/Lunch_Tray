@@ -1,28 +1,20 @@
-Lunch Tray - Starter Code
+Lunch Tray - Finished Code
 ==================================
 
-Starter code for the third independent project for Android Basics in Kotlin
+Completed code for the third independent project for Android Basics in Kotlin
 
 Introduction
 ------------
 
-This is the starter code for the Lunch Tray app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 3 of Android Basics in Kotlin.
+This is the finished code for the Lunch Tray app project. This project was an opportunity to learn and demonstrate the skills learned from Unit 3 of Android Basics in Kotlin.
 
-Pre-requisites
+Skills-Uitilized
 --------------
 
-- Complete Unit 3 of Android Basics in Kotlin
+- ViewModel architecture of Android Applications
+- Understanding of Fragments and Intents
+- Understanding of Navigation in Android development
+- Implementing Radio Buttons and RadioGroups
+- Using Binding variables and data tags in xml to allow the UI to reflect the LiveData as it changes to user input.
 
-Getting Started
----------------
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
